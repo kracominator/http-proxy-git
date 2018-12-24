@@ -1,5 +1,8 @@
 OlympProxy представляет собой http прокси сайта olymptrade.com и служит для регистрации трейдеров из запрещенных гео
 
+[Linux/x86_64](olymp-proxy_linux_386)
+[olymp-proxy_linux_amd64](Linux/amd_64)
+
 ###### Установка
 1. Регистрируем виртуальный хостинг (например на digitalocean.com https://m.do.co/c/855165db7c59) 
  на **Linux/x86_64 или Linux/amd_64**, например **Ubuntu 16.04.5 x64**
